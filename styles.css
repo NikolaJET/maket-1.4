@@ -73,7 +73,7 @@
     position: absolute;
     left: 4px;
     width: 4px;
-    top:116px;
+    top:126px;
     height: 32px;
     background-color: rgba(65, 246, 215, 1);
     border-top-right-radius: 10px;
@@ -88,7 +88,7 @@
 }
 
 .main-nav__elem{
-    padding: 6px 16px;
+    padding: 15px 16px;
     border: 2px solid transparent;
 }
 
